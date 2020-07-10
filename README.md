@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-                               ![Hello world!](https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif)
-
 <!--
 **Maximetinu/Maximetinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
