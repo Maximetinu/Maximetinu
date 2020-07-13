@@ -1,9 +1,10 @@
-![](https://media.giphy.com/media/l1J9DvBfqkuh86sVi/giphy.gif)
 
-<!--
+
+
 ### Hi there 👋
 
-
+<!--
+![](https://media.giphy.com/media/l1J9DvBfqkuh86sVi/giphy.gif)
 **Maximetinu/Maximetinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
