@@ -1,7 +1,4 @@
-
-
-
-### Hi there 👋
+![HelloWorld](./term.svg)
 
 <!--
 ![](https://media.giphy.com/media/l1J9DvBfqkuh86sVi/giphy.gif)
